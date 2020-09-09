@@ -8,10 +8,10 @@
 
 **Task: Print Function**
 
-> Without using any string methods, print a list of integers from 1 through `n` as a string, without spaces. 
+> Without using any string methods, print a list of integers from 1 through `n` as a string, without spaces.
 > *Example:*
->* *Input:* n = 5
->* *Output:* '12345'
+>* Input: n = 5
+>* Output: '12345'
 
 **_My Solution_**
 
