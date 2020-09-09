@@ -6,7 +6,7 @@
 
 </div>
 
-**Task: Print Function**
+**Task 1: Print Function**
 
 > Without using any string methods, print a list of integers from 1 through `n` as a string, without spaces.
 > *Example:*
@@ -24,7 +24,7 @@ def solve1():
 
 ---
 
-**Task: Python If-Else**
+**Task 2: Python If-Else**
 
 > Given an integer `n` perform the following conditional actions:
 >* If `n` is odd, print `Weird`
@@ -34,3 +34,12 @@ def solve1():
 
 **_My Solution_**
 
+```python
+def solve2():
+    n = int(input())
+    res = ['Weird', 'Not Weird']
+    if n % 2 == 1 or n % 2 == 0 and n in range(6, 21):
+        return res[0]
+    elif n % 2 == 0 and n in range(2, 6) or n > 20:
+        return res[1]
+```
