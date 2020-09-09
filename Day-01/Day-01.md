@@ -1,16 +1,19 @@
 # [100 Daze of Code](https://github.com/seraph76/100-Daze-of-Code) - Day 01
 
+<div align="center">
+
 ### HackerRank Challenges
 
-> Without using any string methods, Print a list of integers from 1 through N as a string, without spaces. 
+</div>
 
- *Example:*
+**Task: Print Function**
 
-* *Input:* n = 5
+> Without using any string methods, print a list of integers from 1 through `n` as a string, without spaces. 
+> *Example:*
+>* *Input:* n = 5
+>* *Output:* '12345'
 
-* *Output:* 12345
-
-**My Solution**
+**_My Solution_**
 
 ```python
 def solve1():
@@ -21,4 +24,13 @@ def solve1():
 
 ---
 
+**Task: Python If-Else**
+
+> Given an integer `n` perform the following conditional actions:
+>* If `n` is odd, print `Weird`
+>* If `n` is even and in the inclusive range of `2 to 5`, print `Not Weird`
+>* If `n` is even and in the inclusive range of `6 to 20`, print `Weird`
+>* If `n` is even and greater than 20, print `Not Weird`
+
+**_My Solution_**
 
