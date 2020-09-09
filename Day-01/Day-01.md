@@ -1,4 +1,4 @@
-# [Daze of Code](https://github.com/seraph76/100-Daze-of-Code) - Day 01
+# [100 Daze of Code](https://github.com/seraph76/100-Daze-of-Code) - Day 01
 
 ### HackerRank Challenges
 
