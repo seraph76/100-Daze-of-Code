@@ -6,7 +6,7 @@
 
 </div>
 
-#### **Task 1: Print Function**
+### **Task 1: Print Function**
 
 > Without using any string methods, print a list of integers from 1 through `n` as a string, without spaces.
 > *Example:*
@@ -24,7 +24,7 @@ def solve1():
 
 ---
 
-#### **Task 2: Python If-Else**
+### **Task 2: Python If-Else**
 
 > Given an integer `n` perform the following conditional actions:
 >* If `n` is odd, print `Weird`
@@ -44,7 +44,7 @@ def solve2():
         return res[1]
 ```
 
-#### **Task 3: Mini-Max Sum**
+### **Task 3: Mini-Max Sum**
 
 > Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly
 > four of the five integers. Then print the respective minimum and maximum values as a single line of
