@@ -1,10 +1,10 @@
-# Daze of Code - Day 01
+# [Daze of Code](https://github.com/seraph76/100-Daze-of-Code) - Day 01
 
 ### HackerRank Challenges
 
 > Without using any string methods, Print a list of integers from 1 through N as a string, without spaces. 
 
-*Example:*
+ *Example:*
 
 * *Input:* n = 5
 
@@ -19,9 +19,6 @@ def solve1():
     return ''.join(res)
 ```
 
->  
 ---
-- [x] This
-- [ ] That  
- 
-:octocat:
+
+
