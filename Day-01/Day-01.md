@@ -68,7 +68,7 @@ def solve3(lst):
     print(*res, sep= " ")
     return None
 ```
-
+---
 
 
 
