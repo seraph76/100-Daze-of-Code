@@ -1,6 +1,6 @@
 # 100 Daze of Code
 
-![logo](https://github.com/seraph76/100-Daze-of-Code/blob/master/_resources/logo2.jpg) 
+![logo](https://github.com/seraph76/100-Daze-of-Code/blob/master/_resources/logo.jpg) 
 
 This repository is a collection of my Python programming work over the next 100 days.
 
